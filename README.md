@@ -1,5 +1,5 @@
 # MarioKartVideo
-<img width="1365" height="768" alt="download (26)" src="https://github.com/user-attachments/assets/a7033ca7-55c9-48b0-b612-463a2a2a560e" />
+<img width="451" height="194" alt="download__26_-removebg-preview" src="https://github.com/user-attachments/assets/fb47f905-ad34-4b88-b367-182e3d70b70a" />
 MarioKartVideo is a custom desktop launcher built with Python and PyQt6 designed to provide a nostalgic console experience while playing .MKV Files. This application recreates the Mario Kart Wii environment,
 
 Featuring:
