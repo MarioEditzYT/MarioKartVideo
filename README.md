@@ -39,10 +39,12 @@ Complete the installation.
 Open a command prompt (cmd) or PowerShell and type the following:
 
 python --version
+
 You should see Python 3.13.x or Python 3.14.x as the output.
 
 5. Install PyQt6
 PyQt6 is the framework used for the graphical interface and audio handling. Once Python is installed, run this command to install the necessary libraries:
 
 pip install PyQt6 PyQt6-Qt6 PyQt6-sip
+
 This will download and install the core GUI components and the SIP bindings.
